@@ -9,3 +9,5 @@ https://escuela.it/cursos/curso-profesional-de-java/clase/primeros-pasos-java-pr
 https://escuela.it/cursos/curso-express-de-git/estudiar (GIT)
 
 https://programmerclick.com/article/1886728076/  (BLOQUES DE INICIALIZACION)
+
+https://www.youtube.com/watch?v=QIV7FfXa-zY (STATIC)
