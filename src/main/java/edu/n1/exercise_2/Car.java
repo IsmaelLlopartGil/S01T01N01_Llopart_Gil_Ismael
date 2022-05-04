@@ -13,11 +13,11 @@ public class Car {
 	}
 	
 	public static void brake (){
-		System.out.println("El vehicle est‡ frenant.");
+		System.out.println("El vehicle est√† frenant.");
 	}
 	
 	public void speedUp (){
-		System.out.println("El vehicle est‡ accelerant.");
+		System.out.println("El vehicle est√† accelerant.");
 	}
 
 	public String getPower() {

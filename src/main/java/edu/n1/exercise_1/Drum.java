@@ -8,7 +8,7 @@ public class Drum extends MusicalInstrument  {
 
 	@Override
 	public void play() {
-		System.out.println("Està sonant un instrument de percussió.");
+		System.out.println("Estï¿½ sonant un instrument de percussiÃ³");
 	}
 	
 }

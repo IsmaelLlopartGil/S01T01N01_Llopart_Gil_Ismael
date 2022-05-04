@@ -8,7 +8,7 @@ public class Guitar extends MusicalInstrument {
 
 	@Override
 	public void play() {
-		System.out.println("Està sonant un instrument de corda.");
+		System.out.println("EstÃ¡ sonant un instrument de corda.");
 	}
 
 }
