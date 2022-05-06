@@ -13,7 +13,6 @@ public abstract class MusicalInstrument {
 	protected String name;
 	protected int price;
 	
-	
 	protected MusicalInstrument (String name, int price) {
 		this.name = name;
 		this.price = price;
