@@ -8,7 +8,7 @@ public class Flute extends MusicalInstrument {
 
 	@Override
 	public void play() {
-		System.out.println("Està sonant un instrument de vent.");
+		System.out.println("EstÃ¡ sonant un instrument de vent.");
 	}
 
 }
